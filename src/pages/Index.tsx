@@ -13,7 +13,7 @@ const Index = () => {
       message: "Thank you for being my friend, Pearlie"
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "/lovable-uploads/7fe4f73f-2800-460c-9839-15997d770f37.png",
       message: "You light up every room you enter"
     },
     {
@@ -21,15 +21,15 @@ const Index = () => {
       message: "Your laugh is the sweetest sound"
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "/lovable-uploads/b93b0b5e-adfb-4cf5-b9ca-aeb818b54bcf.png",
       message: "You've made my life so much brighter"
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "/lovable-uploads/f2b4a8da-00a7-47cf-a269-173c8f671b36.png",
       message: "Every memory with you is precious"
     },
     {
-      src: "/placeholder.svg?height=400&width=400",
+      src: "/lovable-uploads/0dd5d1cc-cf9b-4acb-9fd7-4edbd12dc950.png",
       message: "You're not just a friend, you're family"
     }
   ];
