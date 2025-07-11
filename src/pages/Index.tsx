@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Heart, IceCream, Sparkles } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
@@ -18,7 +17,7 @@ const Index = () => {
       message: "You light up every room you enter"
     },
     {
-      src: "/placeholder.svg?height=400&width=400", 
+      src: "/lovable-uploads/d21e98ae-e25c-4130-9039-51766abe9962.png",
       message: "Your laugh is the sweetest sound"
     },
     {
